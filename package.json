@@ -59,18 +59,22 @@
     "typescript": "^2.4.1",
     "typings": "2.1.0",
     "utf-8-validate": "^1.2.1",
-    "ws": "^1.0.1"
+    "ws": "^1.0.1",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "mocha": "3.2.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:michaelgrosner/tribeca.git"
   },
   "author": "Michael Grosner",
-  "license": "ISC"
+  "license": "ISC",
+  "snyk": true
 }
