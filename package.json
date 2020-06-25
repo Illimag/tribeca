@@ -36,7 +36,7 @@
     "basic-auth-connect": "1.0.0",
     "body-parser": "1.17.1",
     "bufferutil": "^1.2.1",
-    "bunyan": "1.8.10",
+    "bunyan": "1.8.13",
     "collections": "5.0.6",
     "compression": "1.6.2",
     "connect": "3.6.0",
