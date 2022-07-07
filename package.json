@@ -48,7 +48,7 @@
     "grunt-ts": "6.0.0-beta.15",
     "jquery": "3.2.1",
     "lodash": "4.17.12",
-    "moment": "2.18.1",
+    "moment": "2.29.4",
     "mongodb": "3.1.13",
     "node-uuid": "1.4.8",
     "q": "1.5.0",
@@ -57,7 +57,7 @@
     "socket.io": "^1.4.5",
     "socket.io-client": "1.7.3",
     "typescript": "^2.4.1",
-    "typings": "2.1.0",
+    "typings": "2.1.1",
     "utf-8-validate": "^1.2.1",
     "ws": "^1.0.1",
     "snyk": "^1.189.0"
